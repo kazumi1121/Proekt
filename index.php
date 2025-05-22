@@ -16,7 +16,7 @@
 	        <li class="ui-tabs-nav-item" id="nav-fragment-4"><a href="#fragment-4"><img src="images/content_slider/image4-small.jpg" alt="" /><span>Etiam congue, leo sit amet iaculis interdum</span></a></li>
 	      </ul>
 
-	    <!-- First Content -->
+	
 	    <div id="fragment-1" class="ui-tabs-panel">
 	      <img src="images/content_slider/image1.jpg" alt="slider image 1" />
 	      <div class="info" >
@@ -25,7 +25,7 @@
 			 </div>
 	    </div>
 
-	    <!-- Second Content -->
+	   
 	    <div id="fragment-2" class="ui-tabs-panel ui-tabs-hide">
 			<img src="images/content_slider/image2.jpg" alt="slider image 2" />
 			 <div class="info">
@@ -34,7 +34,7 @@
 			 </div>
 	    </div>
 
-	    <!-- Third Content -->
+	    
 	    <div id="fragment-3" class="ui-tabs-panel ui-tabs-hide">
 			<img src="images/content_slider/image3.jpg" alt="slider image 3" />
 			 <div class="info">
@@ -43,7 +43,7 @@
 	         </div>
 	    </div>
 
-	    <!-- Fourth Content -->
+
 	    <div id="fragment-4" class="ui-tabs-panel ui-tabs-hide">
 			<img src="images/content_slider/image4.jpg" alt="slider image 4" />
 			 <div class="info">
